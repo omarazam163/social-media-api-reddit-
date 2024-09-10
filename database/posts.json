@@ -1,0 +1,16 @@
+[
+  {
+    "_id": 1725928847890,
+    "user_id": 1725923097800,
+    "content": "this is my first post",
+    "image_content": "image.jpg",
+    "created_at": "2024-09-10T00:40:47.890Z"
+  },
+  {
+    "_id": 1725928903544,
+    "user_id": 1725925487186,
+    "content": "this is my first post welcome",
+    "image_content": "image.jpg",
+    "created_at": "2024-09-10T00:41:43.544Z"
+  }
+]

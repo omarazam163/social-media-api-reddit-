@@ -1,0 +1,34 @@
+[
+  {
+    "_id": 1725915769225,
+    "user_id": 1,
+    "post_id": 1725915552307,
+    "content": "hello it is my first comment",
+    "created_at": "2024-09-09T21:02:49.225Z",
+    "parent_id": null
+  },
+  {
+    "_id": 1725915969354,
+    "user_id": 2,
+    "post_id": 1725915552307,
+    "content": "welcome to reddit",
+    "created_at": "2024-09-09T21:06:09.354Z",
+    "parent_id": 1725915769225
+  },
+  {
+    "_id": 1725916533802,
+    "user_id": 2,
+    "post_id": 1725915552307,
+    "content": "welcome to reddit body",
+    "created_at": "2024-09-09T21:15:33.802Z",
+    "parent_id": null
+  },
+  {
+    "_id": 1725916783933,
+    "user_id": 2,
+    "post_id": 1725915552307,
+    "content": "welcome to hell",
+    "created_at": "2024-09-09T21:19:43.933Z",
+    "parent_id": 1725916533802
+  }
+]
